@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cd test; node test;"
   },
-  "homepage": "https://github.com/weejewel/kaal"
+  "homepage": "https://github.com/weejewel/kaal",
   "author": "",
   "license": "ISC"
 }
