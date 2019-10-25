@@ -1,0 +1,12 @@
+{
+  "name": "kaal",
+  "version": "1.0.1",
+  "description": "Module to help Kyle's code run regardless mistakes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test; node test;"
+  },
+  "homepage": "https://github.com/weejewel/kaal"
+  "author": "",
+  "license": "ISC"
+}
